@@ -37,6 +37,10 @@ A 4-key macropad with a rotary encoder and RGB LEDs, built for the [Hackpad YSWS
 
 Also needed: 4x DSA keycaps, 1x 0.91" 128x32 OLED, 5x M3 heatset inserts + bolts, 3D printed case + 2 acrylic plates.
 
+## Schematic
+
+<img src="assets/Pokeyboardy_SCH.png" alt="Schematic" width="400"/>
+
 ## PCB
 
 <img src="assets/Pokeyboardy_PCB.png" alt="PCB" width="400"/>

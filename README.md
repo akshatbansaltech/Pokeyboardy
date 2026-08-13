@@ -51,6 +51,14 @@ The board runs [KMK](https://github.com/KMKfw/kmk_firmware) on [CircuitPython](h
 | 6 (empty slot) | Ctrl+Shift+Z |
 | Encoder | Volume up / down |
 
+## Building it
+
+1. Populate the PCB: diodes (D1-D4, D8, D10), SK6812 LEDs (D5, D6, D9), MX sockets (SW2-SW6), EC11 encoder (SW1), OLED header (J1), and the XIAO RP2040 (U1)
+2. Print the case parts and drop in the heatset inserts
+3. Mount the PCB in the case, add the acrylic plates and screw it together
+4. Flash the firmware: copy `firmware/main.py` to the CIRCUITPY drive
+5. Put on the keycaps and the knob
+
 ## Schematic
 
 <img src="assets/Pokeyboardy_SCH.png" alt="Schematic" width="400"/>

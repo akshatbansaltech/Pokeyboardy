@@ -46,7 +46,7 @@ keyboard.extensions.append(display)
 keyboard.keymap = [
     [
         KC.LCTL(KC.C), KC.LCTL(KC.V), KC.MUTE,
-        KC.LCTL(KC.Y), KC.LSFT(KC.LCTL(KC.A)), KC.LCTL(KC.Z),
+        KC.LCTL(KC.X), KC.LCTL(KC.Z), KC.LSFT(KC.LCTL(KC.Z)),
     ]
 ]
 

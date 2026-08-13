@@ -25,9 +25,10 @@ rgb = RGB(
     pixel_pin=board.GP29,
     num_pixels=2,
     animation_mode=AnimationModes.SWIRL,
-    hue_default=0,
-    sat_default=100,
-    val_default=100,
+    hue_default=60,
+    sat_default=80,
+    val_default=60,
+    animation_speed=1.5,
 )
 keyboard.extensions.append(rgb)
 

@@ -1,6 +1,6 @@
 # Pokeyboardy
 
-A 4-key macropad with a rotary encoder and RGB LEDs, built for the [Hackpad YSWS](https://hackpad.hackclub.com/).
+**Pokeyboardy** is a compact 4-key macropad built for Hack Club's Hackpad YSWS. It features four mechanical switches, a rotary encoder, RGB lighting, and support for a small OLED display, all powered by a Seeed Studio XIAO RP2040. The PCB, case, and knob were designed from scratch as part of the project.
 
 ## Features
 

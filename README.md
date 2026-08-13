@@ -2,8 +2,6 @@
 
 A 4-key macropad with a rotary encoder and RGB LEDs, built for the [Hackpad YSWS](https://hackpad.hackclub.com/).
 
-Inspired by the [Pokemon-Hackpad](https://github.com/sahilchess/Pokemon-Hackpad) example from the official [hackclub/hackpad](https://github.com/hackclub/hackpad) repository.
-
 ## Features
 
 - 4x Cherry MX switches
@@ -48,7 +46,5 @@ Also needed: 4x DSA keycaps, 1x 0.91" 128x32 OLED, 5x M3 heatset inserts + bolts
 <img src="assets/Pokeyboardy_CAD.png" alt="CAD" width="400"/>
 
 ## Credits
-
-This project is based on the [Pokemon-Hackpad](https://github.com/sahilchess/Pokemon-Hackpad) example from the official [hackclub/hackpad](https://github.com/hackclub/hackpad) repository. The PCB layout, CAD design, and reference firmware from that repo were a huge help in building Pokeyboardy.
 
 Huge thank you to Hack Club and everyone behind the [Hackpad YSWS](https://hackpad.hackclub.com/) for the parts, the guides, and the whole program - genuinely could not have built this without them.

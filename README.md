@@ -35,7 +35,7 @@
 | SW2-SW6 | Cherry MX switch | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB | 5 |
 | U1 | Seeed Studio XIAO RP2040 | XIAO-Generic-Hybrid-14P-2.54-21X17.8MM | 1 |
 
-Also needed: 5x DSA keycaps, 1x 0.91" 128x32 OLED, 6x M3 heatset inserts + bolts, 3D printed case + 2 acrylic plates.
+Also needed: 5x DSA keycaps, 1x 0.91" 128x32 OLED, 6x M3 heatset inserts + bolts, 3D printed case.
 
 ## Firmware
 
@@ -55,7 +55,7 @@ The board runs [KMK](https://github.com/KMKfw/kmk_firmware) on [CircuitPython](h
 
 1. Populate the PCB: diodes (D1-D4, D8, D10), SK6812 LEDs (D5, D6, D9), MX sockets (SW2-SW6), EC11 encoder (SW1), OLED header (J1), and the XIAO RP2040 (U1)
 2. Print the case parts and drop in the heatset inserts
-3. Mount the PCB in the case, add the acrylic plates and screw it together
+3. Mount the PCB in the case and screw it together
 4. Flash the firmware: copy `firmware/main.py` to the CIRCUITPY drive
 5. Put on the keycaps and the knob
 

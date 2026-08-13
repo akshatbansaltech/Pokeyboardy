@@ -37,6 +37,20 @@
 
 Also needed: 5x DSA keycaps, 1x 0.91" 128x32 OLED, 6x M3 heatset inserts + bolts, 3D printed case + 2 acrylic plates.
 
+## Firmware
+
+The board runs [KMK](https://github.com/KMKfw/kmk_firmware) on [CircuitPython](https://circuitpython.org/). Copy `firmware/main.py` to the CIRCUITPY drive on a XIAO RP2040 to install.
+
+| Key (matrix order) | Action |
+|--------------------|--------|
+| 1 | Ctrl+C |
+| 2 | Ctrl+V |
+| 3 | Mute |
+| 4 | Ctrl+X |
+| 5 | Ctrl+Z |
+| 6 (empty slot) | Ctrl+Shift+Z |
+| Encoder | Volume up / down |
+
 ## Schematic
 
 <img src="assets/Pokeyboardy_SCH.png" alt="Schematic" width="400"/>

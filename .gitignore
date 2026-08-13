@@ -7,5 +7,5 @@ _autosave-*
 fp-lib-table.bak
 sym-lib-table.bak
 ~*.lck
-PCB/.history/
+**/.history/
 .history/.history/

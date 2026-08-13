@@ -20,7 +20,7 @@
 | [Pokeyboardy Full Case.step](Pokeyboardy%20Full%20Case.step) | Case only |
 | [Pokeyboardy PCB.step](Pokeyboardy%20PCB.step) | PCB model |
 | [Pokeyboardy knob.step](Pokeyboardy%20knob.step) | Rotary knob |
-| [production/](production/) | Freshly generated gerbers, drill file and production zip |
+| [production/](production/) | Gerbers zip, drill file, 3D-printable case STL files (Body/Top/Middle) + firmware |
 | [Pokeyboardy.csv](Pokeyboardy.csv) | Component BOM |
 | [lib/](lib/) | Footprints and 3D models used by the project |
 

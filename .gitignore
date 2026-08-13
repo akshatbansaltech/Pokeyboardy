@@ -6,3 +6,6 @@ fp-info-cache.history/.history/
 _autosave-*
 fp-lib-table.bak
 sym-lib-table.bak
+~*.lck
+PCB/.history/
+.history/.history/

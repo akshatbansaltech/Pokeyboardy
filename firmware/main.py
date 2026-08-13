@@ -36,7 +36,10 @@ displayio.release_displays()
 i2c_bus = busio.I2C(board.GP7, board.GP6)
 driver = SSD1306(i2c=i2c_bus, device_address=0x3C)
 display = Display(
-    entries=[TextEntry(text='Pokeyboardy', x=0, y=0)],
+    entries=[
+        TextEntry(text='Pokeyboardy', x=0, y=0),
+        TextEntry(text='enc: volume', x=0, y=2, x_anchor='L', y_anchor='T'),
+    ],
     width=128,
     height=32,
     driver=driver,

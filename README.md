@@ -1,12 +1,12 @@
 # Pokeyboardy
 
-**Pokeyboardy** is a compact 4-key macropad built for Hack Club's Hackpad YSWS. It features four mechanical switches, a rotary encoder, RGB lighting, and support for a small OLED display, all powered by a Seeed Studio XIAO RP2040. The PCB, case, and knob were designed from scratch as part of the project.
+**Pokeyboardy** is a compact 5-key macropad built for Hack Club's Hackpad YSWS. It features five mechanical switches, a rotary encoder, RGB lighting, and support for a small OLED display, all powered by a Seeed Studio XIAO RP2040. The PCB, case, and knob were designed from scratch as part of the project.
 
 ## Features
 
-- 4x Cherry MX switches
+- 5x Cherry MX switches
 - 1x EC11 rotary encoder
-- 2x WS2812B RGB LEDs
+- 3x SK6812 mini RGB LEDs
 - Seeed XIAO controller
 - OLED header
 
@@ -28,14 +28,14 @@
 
 | Reference | Value | Footprint | Qty |
 |-----------|-------|-----------|-----|
-| D1-D4, D9 | 1N4148 DO-35 diode | Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal | 5 |
-| D5, D6 | WS2812B | LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm | 2 |
+| D1-D4, D8, D10 | 1N4148 DO-35 diode | Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal | 6 |
+| D5, D6, D9 | SK6812 mini | LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount | 3 |
 | J1 | OLED display header | Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical | 1 |
 | SW1 | EC11 rotary encoder | Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm | 1 |
-| SW2-SW5 | Cherry MX switch | MX_Solderable:MX-Solderable-1U | 4 |
+| SW2-SW6 | Cherry MX switch | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB | 5 |
 | U1 | Seeed Studio XIAO RP2040 | XIAO-Generic-Hybrid-14P-2.54-21X17.8MM | 1 |
 
-Also needed: 4x DSA keycaps, 1x 0.91" 128x32 OLED, 5x M3 heatset inserts + bolts, 3D printed case + 2 acrylic plates.
+Also needed: 5x DSA keycaps, 1x 0.91" 128x32 OLED, 6x M3 heatset inserts + bolts, 3D printed case + 2 acrylic plates.
 
 ## Schematic
 

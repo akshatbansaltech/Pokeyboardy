@@ -1,6 +1,10 @@
 # Pokeyboardy
 
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/akshatbansaltech/Pokeyboardy/tree/main/pcb)
+<p align="center">
+  <a href="https://kicanvas.org/?repo=https://github.com/akshatbansaltech/Pokeyboardy/tree/main/pcb">
+    <img src="https://hack.club/pcb-badge" alt="View PCB on KiCanvas"/>
+  </a>
+</p>
 
 **Pokeyboardy** is a compact 5-key macropad built for Hack Club's Hackpad YSWS. It features five mechanical switches, a rotary encoder, RGB lighting, and support for a small OLED display, all powered by a Seeed Studio XIAO RP2040. The PCB, case, and knob were designed from scratch as part of the project.
 

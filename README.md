@@ -61,15 +61,15 @@ The board runs [KMK](https://github.com/KMKfw/kmk_firmware) on [CircuitPython](h
 
 ## Schematic
 
-<img src="PCB/assets/Pokeyboardy_SCH.png" alt="Schematic" width="400"/>
+<img src="Pokeyboardy/PCB/assets/Pokeyboardy_SCH.png" alt="Schematic" width="400"/>
 
 ## PCB
 
-<img src="PCB/assets/Pokeyboardy_PCB.png" alt="PCB" width="400"/>
+<img src="Pokeyboardy/PCB/assets/Pokeyboardy_PCB.png" alt="PCB" width="400"/>
 
 ## CAD
 
-<img src="PCB/assets/Pokeyboardy_CAD.png" alt="CAD" width="400"/>
+<img src="Pokeyboardy/PCB/assets/Pokeyboardy_CAD.png" alt="CAD" width="400"/>
 
 ## Credits
 

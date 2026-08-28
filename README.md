@@ -6,7 +6,8 @@
   </a>
 </p>
 
-**Pokeyboardy** is a compact 5-key macropad built for Hack Club's Hackpad YSWS. It features five mechanical switches, a rotary encoder, RGB lighting, and support for a small OLED display, all powered by a Seeed Studio XIAO RP2040. The PCB, case, and knob were designed from scratch as part of the project.
+**Pokeyboardy** is a compact 5-key macropad which features five mechanical switches, a rotary encoder, RGB lighting, and support for a small OLED display, all powered by a Seeed Studio XIAO RP2040. The PCB, case, and knob were designed from scratch as part of the project.
+The cherry on top is that its pokemon inspired!!!(yayyayay), hence the name.
 
 ## Features
 
@@ -77,9 +78,6 @@ The board runs [KMK](https://github.com/KMKfw/kmk_firmware) on [CircuitPython](h
 
 <img src="Pokeyboardy/PCB/assets/Pokeyboardy_CAD.png" alt="CAD" width="400"/>
 
-## Credits
-
-Huge thank you to Hack Club and everyone behind the [Hackpad YSWS](https://hackpad.hackclub.com/) for the parts, the guides, and the whole program - genuinely could not have built this without them.
 
 ## License
 

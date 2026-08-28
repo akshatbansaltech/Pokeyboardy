@@ -80,3 +80,8 @@ The board runs [KMK](https://github.com/KMKfw/kmk_firmware) on [CircuitPython](h
 ## Credits
 
 Huge thank you to Hack Club and everyone behind the [Hackpad YSWS](https://hackpad.hackclub.com/) for the parts, the guides, and the whole program - genuinely could not have built this without them.
+
+## License
+
+
+This project is licensed under the [MIT License](LICENSE)

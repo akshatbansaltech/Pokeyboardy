@@ -9,6 +9,8 @@
 **Pokeyboardy** is a compact 5-key macropad which features five mechanical switches, a rotary encoder, RGB lighting, and support for a small OLED display, all powered by a Seeed Studio XIAO RP2040. The PCB, case, and knob were designed from scratch as part of the project.
 The cherry on top is that its pokemon inspired!!!(yayyayay), hence the name.
 
+POKEYBOARDY IS APPROVED IN STARDANCE!!!!!!
+
 ## Features
 
 - 5x Cherry MX switches
